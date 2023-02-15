@@ -1,0 +1,22 @@
+{
+  "name": "aniversariantes",
+  "version": "1.0.0",
+  "description": "api aniversariantes",
+  "main": "/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizgomes375/aniversariantes.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "luiz/daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luizgomes375/aniversariantes/issues"
+  },
+  "homepage": "https://github.com/luizgomes375/aniversariantes#readme"
+}
